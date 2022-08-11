@@ -1,0 +1,45 @@
+Freelancer Platform
+User Research
+
+Project Structure
+Purpose
+To gain a better understanding of the demands of freelance software developers and the businesses that use them.
+Recognize how freelance software developers get hired.
+Get feedback about App Doctor's platform from participants.
+Two freelance software engineers and two decision makers who recruit freelance software developers are the screening criteria.
+
+Freelancing Experience (Freelancers)
+Participants opt to be freelancers because it provides them with more flexibility and an additional source of income. They love working on a variety of projects and the sense of success that comes from assisting others, but they are occasionally concerned about the lack of income stability when there is no employment available. Participants discussed how they locate freelance jobs in various ways and offered suggestions for how to make the process better for each (as follow).
+
+Freelancer Hiring Process (Decision Makers)
+When participants' organizations have well-defined and smaller projects that don't require domain knowledge of their core technology, such as constructing webpages, utility apps like ticketing and survey systems, user data tracking tools, and so on, they engage freelancers. Their businesses hire freelance applicants from third-party consulting organizations, who they interview and hire. Freelancers would either need to return equipment and undertake a knowledge transfer with the internal team at the end of the contract, or they would be converted into a full-time employment.
+
+App Doctor Platform Impression
+App Doctor's website and offering were well-received by both freelancers and decision-makers. Despite certain ambiguous terms and phrases on the site, they understood the service. The Task Manager functionality was well accepted, but participants had some queries about the Hourly Coupon pricing scheme. With a few exceptions, both freelancers and decision-makers would use a service like this (explanations as follow).
+
+The website's design, including the color scheme, style, and general quality, gives participants the impression that the service is trustworthy. All participants agreed, however, that the texts needed to be polished to make them easier to grasp.
+
+Participants appreciated having a Task Manager to handle communication and logistics. The Task Manager is expected to be a competent communicator, project manager, and dependable.
+
+The Hourly Coupon model, participants believed, would be an entry point for the service, and if satisfied, they would move to a project-based payment model. The Hourly Coupon pricing model raises a number of problems for both freelancers and decision makers. Before the participants can provide any input on the model, these questions must be addressed.
+
+Conclusion & Suggestions
+Both freelancers and decision-makers agree that App Doctor is a useful platform. Overall, App Doctor is regarded as a solution for small to medium-sized businesses that require rapid and small development work.
+
+The website appears to be respectable and trustworthy, but participants can tell it's a foreign firm because of the use of an unfamiliar service (Kakao) and various linguistic errors in the content. App Doctor's presence in the United States would benefit from better website localization.
+
+While having a Task Manager is beneficial, it appears that a fair pay rate and a consistent amount of work are the most important factors for freelancers when joining a platform like App Doctor. The type of project and the quality of work were frequently mentioned as critical factors by decision-makers, but not the cost. The Hourly Coupon approach requires some elaboration and is typically seen as inexpensive. While the customers (decision-makers) perceive it as a lower entry point, the providers (freelancers) perceive it as poor income. In markets such as Silicon Valley in the United States, some pricing equilibrium is required.
+
+This experiment is significant in that it collects nonverbal responses (silent time, facial expressions, gestures, and so on) from participants during in-depth interviews while tracking their movements. If it is necessary to reinforce the research findings in order to present them as the foundation for a future service pivot, it is recommended that the sample size be increased in order to conduct additional research.
+
+
+
+
+
+
+
+
+
+
+
+

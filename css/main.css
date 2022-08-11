@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 100%;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid blue;
+}
+
+section {
+    margin: 1em;
+}
+
+.select-template {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-row {
+    display: flex;
+}
+
+.input-wrapper { 
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-articles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.article-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.article-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+}
+
+.article-newsletter-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.article-translation-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    margin: 0;
+    padding: 0;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

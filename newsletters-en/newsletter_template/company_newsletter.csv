@@ -1,0 +1,5 @@
+template_id, template
+startup_desc_1, The {industry} company {company_name} announced a {investment_amount} {funding_stage}, reaching a total company valuation of {investment_total}. The company specializes in {technology} and plans to use the new funding on {new_process}
+startup_desc_2, {company_name}, a innovative company providing {technology} in the {ndustry} industry, rasied {investment_amount} in a {funding_stage}. The company currently values at {investment_total} and plans to use the new funding on {new_process}
+partnership_1,
+B2G_visit_1, {name}, from {company_name} in {country}, visited the Born2Global Centre on {date}. A meeting was held on revitalizing startup partnerships and create a startup ecosystem between the two countries.

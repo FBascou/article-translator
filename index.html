@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/main.css">
+    <title>Newsletter Creator</title>
+</head>
+<body>
+    <div class="container">
+        <form action="#" id="templateform" method="post">
+            <h1>Article 1</h1>
+            <input type="button" value="-">
+            <section class="select-template">
+                <label for="templates">Choose a template</label>
+                <select name="templates" id="templates" required>
+                    <option value=""></option>
+                    <optgroup label="Startups">
+                        <option value="startup_desc_1">Startup Description 1</option>
+                        <option value="startup_desc_2">Startup Description 2</option>
+                    </optgroup>
+                    <optgroup label="Visits">
+                        <option value="guest_visit_1">Guest to B2G Visit 1</option>
+                        <option value="guest_visit_2">B2G to Guest Visit 1</option>
+                    </optgroup>
+                </select>
+            </section>
+            <section class="input-info">
+                <div class="input-container">
+                    <div class="input-row">
+                        <div class="input-wrapper">
+                            <label for="company-name">Company name</label>
+                            <input class="input-box" type="text" name="company-name" id="company-name">
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="industry-name">Industry</label>
+                            <input class="input-box" type="text" name="industry-name" id="industry-name">
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="technology-name">Technology</label>
+                            <input class="input-box" type="text" name="technology-name" id="technology-name">
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="contact-name">Contact Name</label>
+                            <input class="input-box" type="text" name="contact-name" id="contact-name">
+                        </div>
+                    </div>
+                    <div class="input-row">
+                        <div class="input-wrapper">
+                            <label for="investment-name">Investment Total</label>
+                            <input class="input-box" type="text" name="investment-name" id="investment-name">
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="funding-name">Funding Total</label>
+                            <input class="input-box" type="text" name="funding-name" id="funding-name">
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="stage-name">Funding Stage</label>
+                            <input class="input-box" type="text" name="stage-name" id="stage-name">
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="plan-name">Plan</label>
+                            <input class="input-box" type="text" name="plan-name" id="plan-name">
+                        </div>
+                    </div>
+                </div>
+                <div class="button-container">
+                    <input id="add-info-button" type="button" value="Add Info">
+                </div>
+            </section>
+            <section class="input-articles">
+                <div class="article-container">
+                    <div class="article-newsletter-wrapper">
+                        <div class="article-wrapper">
+                            <label for="newsletter-kr">Korean Article Summary</label>
+                            <textarea class="text-newsletter" name="newsletter-kr" form="templateform" id="newsletter-kr" cols="80" rows="8"></textarea>
+                        </div>
+                        <div class="article-wrapper">
+                            <label for="newsletter-en">English Article Summary</label>
+                            <textarea class="text-newsletter" name="newsletter-en" form="templateform" id="newsletter-en" cols="80" rows="8"></textarea>
+                        </div>
+                    </div>
+                    <div class="article-translation-wrapper">
+                        <div class="article-wrapper">
+                            <label for="article-kr">Korean Article</label>
+                            <textarea name="article-kr" form="templateform" id="article-kr" cols="80" rows="15"></textarea>
+                        </div>
+                        <div class="article-wrapper">
+                            <label for="article-kr">English Article</label>
+                            <textarea name="article-en" form="templateform" id="article-en" cols="80" rows="15"></textarea>
+                        </div>
+                    </div>
+                    <div class="article-translate-button">
+                        <input type="button" value="Translate">
+                    </div>
+                </div>
+            </section>
+            <div class="button-container">
+                <h4>Add new article</h4>
+                <div class="button-wrapper">
+                    <input type="button" value="-">
+                    <input type="button" value="+">
+                </div>
+            </div>
+            <div class="download-wrapper">
+                <input id="download-button" type="submit" value="Download">
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript" src="./js/index.js"></script>
+    <!-- <script type="text/javascript" src="./js/translate.js"></script> -->
+</body>
+</html>
